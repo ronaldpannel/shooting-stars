@@ -12,7 +12,7 @@ audio {
   top: 0rem;
   left: 0em;
   z-index: 2;
-  transform: scale(0.4);
+  transform: scale(0.8);
   opacity: 0.8;
   margin-right: auto;
 }
